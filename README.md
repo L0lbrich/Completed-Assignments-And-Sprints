@@ -1,4 +1,4 @@
-# Completed Assignments And Sprint Challenges
+# Completed assignments and sprint challenges
 
 This is a folder for all the completed assignments and sprints at Bloomtech
 
