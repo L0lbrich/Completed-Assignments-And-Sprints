@@ -1,7 +1,7 @@
 
 Completed assignments and sprint challenges
 
-This is a folder for all the completed assignments and sprints at Bloomtech
+This is a folder for all the completed assignments and sprints at Bloomtech.
 *Some databases are missing due to large size
 
 Assignments:
@@ -13,6 +13,7 @@ Unit 2: Statistical models, ML datasets, and model Tuning
 Unit 3: Environments, Python Classes, SQL, and Web Apps
 
 Unit 4: Machine Learning Models, and NLP
+
 
 Sprint Challenges:
 
