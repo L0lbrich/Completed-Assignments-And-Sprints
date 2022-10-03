@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=L0lbrich&label=Profile%20views&color=0e75b6&style=flat" alt="L0lbrich" /> </p>
-# Completed assignments and sprint challenges
+
+Completed assignments and sprint challenges
 
 This is a folder for all the completed assignments and sprints at Bloomtech
 *Some databases are missing due to large size
