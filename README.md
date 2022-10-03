@@ -1,10 +1,10 @@
 
-Completed assignments and sprint challenges
+<h1>Completed assignments and sprint challenges</h1>
 
 This is a folder for all the completed assignments and sprints at Bloomtech.
 *Some databases are missing due to large size
 
-Assignments:
+<b>Assignments:</b>
 
 Unit 1: Python basics, data manipulation, and statistical inference
     
@@ -15,7 +15,7 @@ Unit 3: Environments, Python Classes, SQL, and Web Apps
 Unit 4: Machine Learning Models, and NLP
 
 
-Sprint Challenges:
+<b>Sprint Challenges:</b>
 
 Unit 1: Data Wrangling, Statistical tests/experiments, and linear algebra
 
