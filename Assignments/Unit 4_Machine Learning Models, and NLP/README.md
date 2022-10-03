@@ -14,7 +14,7 @@ Lets talk about how weights effect Hidden layers. Remember hidden layers, like i
 
 Now I hope its clear how Neural networks can be complicated and simple simultaneously. As an example if we had a network with a input layer of 100 neurons, and 5 hidden layers of 50 neurons and an output layer of 10 neurons, we could calculate the total number of weights like this: (100 x 50 + 50) + (50 x 50 + 50) + (50 x 50 + 50) + (50 x 50 + 50) + (50 x 50 + 50) + (50 x 50 + 50) + (50 x 10 + 10) = 18310 different weights and that would be for an image with only 100 pixels!
 
-<h1>Tokenization summary</>
+<h1>Tokenization summary</h1>
   
 On our first day, we learned about word embeddings and tokenizing text with spacy so that we could use them in a natural language processing model. The first thing we did was download a pre-trained natural language model from spacy called en_core_web_md which is a downloadable version of the pre-trained model. We then use spacy.load() to load the model as a variable NLP. This is the medium size model but there are large and small versions as well. Once we download the spacy tool kit in collab we need to restart the runtime otherwise the notebook won't be able to recognize it's downloaded.
 
